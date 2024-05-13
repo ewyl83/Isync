@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select CategoryASSETSBEVERAGEFOODMAR_b3348c</name>
+   <tag></tag>
+   <elementGuidId>34d2178b-9657-4e6d-981c-ddfa2429efd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SelectedCategoryId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='SelectedCategoryId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6f609ecd-0cef-4ca3-a3f0-51756ead4b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>f1b1a4e2-c9ac-4f17-9ec2-38e21c444b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SelectedCategoryId</value>
+      <webElementGuid>c3dbd428-b2a3-45f7-9b71-0e1ea5b23bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SelectedCategoryId</value>
+      <webElementGuid>8b76ff98-3575-4e38-860f-1dfd7ae490b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Select Category
+ASSETS
+BEVERAGE
+FOOD
+MARCOMM
+OPS EXPENSE
+RETAIL
+SOE
+TOBACCO
+</value>
+      <webElementGuid>39fc933e-8daf-40e3-aeba-f5ad2f97ab30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SelectedCategoryId&quot;)</value>
+      <webElementGuid>e680eb6c-bfeb-4ed1-95be-41dc39f007c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='SelectedCategoryId']</value>
+      <webElementGuid>5e1c883e-5c81-4582-bbb6-db46fd1420d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='filter-collapse']/div/div/div/div/select</value>
+      <webElementGuid>292138ab-e98d-4410-8dbb-5e1814d8e568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/following::select[1]</value>
+      <webElementGuid>8aa5b8ca-4433-4ccd-a7c3-4dd57a7a4c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::select[1]</value>
+      <webElementGuid>bc2726ee-df5f-4840-a3ca-3db0a5ea7880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group'])[1]/preceding::select[1]</value>
+      <webElementGuid>e8a9c9e1-122c-408b-8ffd-128faeb0e502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor'])[1]/preceding::select[2]</value>
+      <webElementGuid>c1da181b-d369-4fc3-baf9-ce9a5a0890b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/div[2]/div/div/div/div/select</value>
+      <webElementGuid>f852cc3a-157a-4ff2-aefd-8854c165127f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'SelectedCategoryId' and @name = 'SelectedCategoryId' and (text() = '
+                                Select Category
+ASSETS
+BEVERAGE
+FOOD
+MARCOMM
+OPS EXPENSE
+RETAIL
+SOE
+TOBACCO
+' or . = '
+                                Select Category
+ASSETS
+BEVERAGE
+FOOD
+MARCOMM
+OPS EXPENSE
+RETAIL
+SOE
+TOBACCO
+')]</value>
+      <webElementGuid>af354198-e91b-46e2-b213-9852460dfab8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

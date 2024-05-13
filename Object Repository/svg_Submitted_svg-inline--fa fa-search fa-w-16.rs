@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Submitted_svg-inline--fa fa-search fa-w-16</name>
+   <tag></tag>
+   <elementGuidId>5a9ba9ef-6e7f-4542-a859-5cdf2de8e60a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.action-pop.buttons-2 > a.btn.btn-info.viewButton > svg.svg-inline--fa.fa-search.fa-w-16</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitted'])[2]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>370b331b-00e4-43ea-93c0-21c46577643a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-search fa-w-16</value>
+      <webElementGuid>c4d94015-1979-4ad6-855b-3402f0c1f5ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e9afdfdc-b640-4282-bd4f-27b8e768e2ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fa</value>
+      <webElementGuid>fa542829-865c-46b4-9d5c-d2b1f8a62c7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>38ae8e5b-c474-4867-a1cd-eb9041b2e2d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6dc92b0d-fcf7-4fa6-a160-a651dc873813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>aadd8c09-21ee-4482-8851-4d0896770b49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>42af1993-d36b-4e96-8210-e2d599e5cdee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbl-list&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/div[@class=&quot;action-dots&quot;]/div[@class=&quot;action-pop buttons-2&quot;]/a[@class=&quot;btn btn-info viewButton&quot;]/svg[@class=&quot;svg-inline--fa fa-search fa-w-16&quot;]</value>
+      <webElementGuid>8d6ff47b-565b-478a-9048-a105b0f8cacd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitted'])[2]/following::*[name()='svg'][2]</value>
+      <webElementGuid>7286acce-13d1-43d0-a4c7-63f8fec20765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B2B MULTIPLE PMS TEST'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>0eb0275a-3fb5-4ae5-90d0-52e16f334b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO-202308001417'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>c22ccc07-d837-43a5-af1f-b74cf4f23675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST 1 OUTLET #2'])[5]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>8a5cfc1f-130b-413d-aff1-f4676f19e6cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
